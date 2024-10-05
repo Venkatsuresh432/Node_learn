@@ -1,0 +1,9 @@
+object relationship mapping
+
+
+ 1=1
+ 1=many
+ many = many
+
+
+ written Controller as single responsiblity principle

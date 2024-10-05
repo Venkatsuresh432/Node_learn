@@ -1,0 +1,17 @@
+api without continuition connection is called => stateless
+
+converting into stateful  using jwt
+
+jwt -> json web token
+ 
+
+ npm install jsonwebtoken
+
+ if we sent token we need 3 things
+
+ data 
+ passcode 
+ token (config)
+
+validation
+ npm install express-validator

@@ -1,0 +1,6 @@
+comparision operator
+
+<    - $lt
+>    -$gt
+<=   -$lte
+>=   -$gte

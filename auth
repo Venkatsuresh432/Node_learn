@@ -1,0 +1,11 @@
+auth && authoriation
+
+Oauth0
+Oauth2
+jwt -json web token
+password verification
+certificate verification
+
+
+using sha
+using bcrypt

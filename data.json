@@ -1,0 +1,10 @@
+[
+    {
+      "name": "Bass Drum",
+      "type": "percussion"
+    },
+    {
+      "name": "Violin",
+      "type": "string"
+    }
+  ]
